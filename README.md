@@ -62,6 +62,8 @@
 
 ![image](https://user-images.githubusercontent.com/51112316/60862936-197eaf80-a25a-11e9-8de6-6568248177a9.png)
 
+
+
 ## - 간단한 예제 : 
 
 ### 초기값을 임의로 지정한 후 확인
@@ -89,9 +91,11 @@
 ### -> w1, w2 모두 활성화 되어 오차 발생
 ### -> 두 가중치 모두 다 변경
 
+
 ## ->이것으로 하나의 데이터에 대해서 1회(에폭) 완료
 ## -> 위 작업을 이후 계속 반복
 
 ![image](https://user-images.githubusercontent.com/51112316/60863099-85f9ae80-a25a-11e9-898a-3cc91e9244de.png)
 ![image](https://user-images.githubusercontent.com/51112316/60863103-8b56f900-a25a-11e9-9320-e8ccad66cdb5.png)
-##=> 퍼셉트론을 여러개로 뭉쳐서 이 문제 해결 가능.
+
+## => 퍼셉트론을 여러개로 뭉쳐서 이 문제 해결 가능.
