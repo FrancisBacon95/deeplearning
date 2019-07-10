@@ -1,0 +1,5 @@
+tensorboard ½ÇÇà¹ý
+python -m tensorboard.main --logdir=[PATH_TO_LOGDIR]
+
+
+https://stackoverrun.com/ko/q/13134879
